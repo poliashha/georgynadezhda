@@ -654,6 +654,10 @@ body {
   margin-bottom: 30px;
 }
 
+.anketa-title{
+  width: 142px;
+}
+
 @media (width<412px) {
   object:has(:not(.heart)) {
     max-width: 412px;
